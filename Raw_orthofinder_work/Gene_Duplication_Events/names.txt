@@ -1,0 +1,125 @@
+
+NODE: Toxoplasma_gondii_mito
+Genes 1:
+  - A0A125YTV4: Large ribosomal subunit protein uL24c (от Toxoplasma_gondii_mito_9I05_17|Chain)
+Genes 2:
+  - A0A125YMH9: Large ribosomal subunit protein uL24c (от Toxoplasma_gondii_mito_9I05_40|Chain)
+------------------------------------------------------------
+
+NODE: N26
+Genes 1:
+  - Q389K1: 60S ribosomal protein L6, putative (от Trypanosoma_brucei_8OVE_71|Chain)
+  - Q7SH22: 60S ribosomal protein L6 (от Neurospora_crassa_cyto_7R81_15|Chain)
+  - Q02326: Large ribosomal subunit protein eL6A (от Saccharomyces_cerevisiae_cyto_5DC3_43|Chains)
+  - Q567N5: Large ribosomal subunit protein eL6 (от Danio_rerio_cyto_7OYB_13|Chain)
+  - P47911: Large ribosomal subunit protein eL6 (от Mus_musculus_cyto_7LS2_16|Chain)
+  - G1SKF7: Large ribosomal subunit protein eL6 (от Oryctolagus_cuniculus_cyto_8VVT_5|Chain)
+  - Q9V9W2: Large ribosomal subunit protein eL6 (от Drosophila_melanogaster_cyto_4V6W_81|Chain)
+  - P47991: Large ribosomal subunit protein eL6 (от Caenorhabditis_elegans_cyto_9CAI_50|Chain)
+  - A0A1S4B0G2: 60S ribosomal protein L6 isoform X1 (от Nicotiana_tabacum_cyto_8B2L_63|Chain)
+  - Q9C9C6: Large ribosomal subunit protein eL6y (от Arabidopsis_thaliana_cyto_9H3G_52|Chain)
+  - O15595: Large ribosomal subunit protein eL6 (от Entamoeba_histolytica_cyto_9V21_8|Chain)
+  - A0A5K1K8V8: 60S ribosomal protein L6, putative (от Plasmodium_falciparum_cyto_9BUS_54|Chain)
+Genes 2:
+  - A8B4F8: Ribosomal protein L14 (от Giardia_duodenalis_cyto_8BSJ_14|Chain)
+  - A8E526: Large ribosomal subunit protein eL14 (от Danio_rerio_cyto_7OYB_28|Chain)
+  - Q9CR57: Large ribosomal subunit protein eL14 (от Mus_musculus_cyto_7LS2_7|Chain)
+  - G1SZ12: Large ribosomal subunit protein eL14 (от Oryctolagus_cuniculus_cyto_8VVT_11|Chain)
+  - P55841: Large ribosomal subunit protein eL14 (от Drosophila_melanogaster_cyto_4V6W_44|Chain)
+  - A0A1S4A807: Large ribosomal subunit protein eL14z (от Nicotiana_tabacum_cyto_8B2L_39|Chain)
+  - Q9T043: Large ribosomal subunit protein eL14y (от Arabidopsis_thaliana_cyto_9H3G_26|Chain)
+  - Q9XVE9: Large ribosomal subunit protein eL14 (от Caenorhabditis_elegans_cyto_9CAI_58|Chain)
+  - P36105: Large ribosomal subunit protein eL14A (от Saccharomyces_cerevisiae_cyto_5DC3_50|Chains)
+  - Q7SI18: Ribosomal protein L14 (от Neurospora_crassa_cyto_7R81_29|Chain)
+  - C4M6S2: 60S ribosomal protein L14, putative (от Entamoeba_histolytica_cyto_9V21_16|Chain)
+  - Q383F5: 40S ribosomal protein L14, putative (от Trypanosoma_brucei_8OVE_8|Chain)
+  - Q8ILE8: 60S ribosomal protein L14, putative (от Plasmodium_falciparum_cyto_9BUS_43|Chain)
+------------------------------------------------------------
+
+NODE: N18
+Genes 1:
+  - Q9NVS2: Large ribosomal subunit protein mL66 (от Homo_sapiens_mito_7QI4_85|Chain)
+  - F1RRH6: Large ribosomal subunit protein mL66 (от Sus_scrofa_mito_5AJ4_87|Chain)
+Genes 2:
+  - NO UNIPROT: Sus_scrofa_mito_5AJ4_15|Chain
+  - Q9Y3D5: Small ribosomal subunit protein bS18m (от Homo_sapiens_mito_7QI4_16|Chain)
+  - Q9Y676: Small ribosomal subunit protein mS40 (от Homo_sapiens_mito_7QI4_15|Chain)
+  - Q767K8: Small ribosomal subunit protein mS40 (от Sus_scrofa_mito_5AJ4_33|Chain)
+------------------------------------------------------------
+
+NODE: N18
+Genes 1:
+  - NO UNIPROT: Sus_scrofa_mito_5AJ4_15|Chain
+  - Q9Y3D5: Small ribosomal subunit protein bS18m (от Homo_sapiens_mito_7QI4_16|Chain)
+Genes 2:
+  - Q9Y676: Small ribosomal subunit protein mS40 (от Homo_sapiens_mito_7QI4_15|Chain)
+  - Q767K8: Small ribosomal subunit protein mS40 (от Sus_scrofa_mito_5AJ4_33|Chain)
+------------------------------------------------------------
+
+NODE: N28
+Genes 1:
+  - P05759: Ubiquitin-ribosomal protein eS31 fusion protein (от Saccharomyces_cerevisiae_cyto_5DC3_33|Chains)
+  - P15357: Ubiquitin-ribosomal protein eS31 fusion protein (от Drosophila_melanogaster_cyto_4V6W_25|Chain)
+  - P62983: Ubiquitin-ribosomal protein eS31 fusion protein (от Mus_musculus_cyto_7LS2_78|Chain)
+  - G1SK22: Ubiquitin-ribosomal protein eS31 fusion protein (от Oryctolagus_cuniculus_cyto_8VVT_82|Chain)
+  - P14799: Ubiquitin-ribosomal protein eS31 fusion protein (от Neurospora_crassa_cyto_7R81_66|Chain)
+  - P37165: Ubiquitin-like protein 1-ribosomal protein eS31 fusion protein (от Caenorhabditis_elegans_cyto_9CAI_19|Chain)
+Genes 2:
+  - V5INI1: 60S ribosomal protein L40 (от Neurospora_crassa_cyto_7R81_75|Chain)
+  - P0CH08: Ubiquitin-ribosomal protein eL40A fusion protein (от Saccharomyces_cerevisiae_cyto_5DC3_76|Chains)
+  - C4LV09: 60S ribosomal protein L40, putative (от Entamoeba_histolytica_cyto_9V21_42|Chain)
+  - P18101: Ubiquitin-ribosomal protein eL40 fusion protein (от Drosophila_melanogaster_cyto_4V6W_75|Chain)
+  - NO UNIPROT: Oryctolagus_cuniculus_cyto_8VVT_44|Chain
+  - P62984: Ubiquitin-ribosomal protein eL40 fusion protein (от Mus_musculus_cyto_7LS2_41|Chain)
+  - Q8ID50: Ubiquitin-60S ribosomal protein L40 (от Plasmodium_falciparum_cyto_9BUS_50|Chain)
+  - B9DHA6: Ubiquitin-ribosomal protein eL40z fusion protein (от Arabidopsis_thaliana_cyto_9H3G_55|Chain)
+  - P49632: Ubiquitin-ribosomal protein eL40 fusion protein (от Caenorhabditis_elegans_cyto_9CAI_72|Chain)
+  - P21899: Ubiquitin-ribosomal protein eL40 fusion protein (от Trypanosoma_brucei_8OVE_76|Chain)
+------------------------------------------------------------
+
+NODE: Saccharomyces_cerevisiae_cyto
+Genes 1:
+  - NO UNIPROT: Saccharomyces_cerevisiae_cyto_5DC3_80|Chain
+Genes 2:
+  - Q08745: Small ribosomal subunit protein eS10A (от Saccharomyces_cerevisiae_cyto_5DC3_12|Chain)
+------------------------------------------------------------
+
+NODE: N30
+Genes 1:
+  - Q3B7P7: Ubiquitin-ribosomal protein eL40 fusion protein (от Danio_rerio_cyto_7OYB_73|Chain)
+Genes 2:
+  - Q584U5: 40S ribosomal protein S30 (от Trypanosoma_brucei_8OVE_70|Chain)
+  - O96269: Small ribosomal subunit protein eS30 (от Plasmodium_falciparum_cyto_9BUS_6|Chain)
+  - A0A1S3XGJ0: 40S ribosomal protein S30 (от Nicotiana_tabacum_cyto_8B2L_15|Chain)
+  - P49689: Small ribosomal subunit protein eS30z/eS30y/eS30x (от Arabidopsis_thaliana_cyto_9H3G_36|Chain)
+  - Q9VDH8: Ribosomal protein S30, isoform A (от Drosophila_melanogaster_cyto_4V6W_24|Chain)
+  - Q6PC01: FAU ubiquitin-like and ribosomal protein S30 fusion a (от Danio_rerio_cyto_7OYB_64|Chain)
+  - P62862: Ubiquitin-like FUBI-ribosomal protein eS30 fusion protein (от Mus_musculus_cyto_7LS2_77|Chain)
+  - G1T8A2: Ubiquitin-like FUBI-ribosomal protein eS30 fusion protein (от Oryctolagus_cuniculus_cyto_8VVT_81|Chain)
+  - Q18231: Ubiquitin-like domain-containing protein (от Caenorhabditis_elegans_cyto_9CAI_34|Chain)
+------------------------------------------------------------
+
+NODE: Chlamydomonas_reinhardtii_chloro
+Genes 1:
+  - NO UNIPROT: Chlamydomonas_reinhardtii_chloro_9TVU_32|Chain
+Genes 2:
+  - NO UNIPROT: Chlamydomonas_reinhardtii_chloro_9TVU_52|Chain
+------------------------------------------------------------
+
+NODE: N24
+Genes 1:
+  - A0A1S4C0C1: Ubiquitin-40S ribosomal protein S27a (от Nicotiana_tabacum_cyto_8B2L_16|Chain)
+  - S7W9X5: Ubiquitin/40s ribosomal protein S27a fusion (от Spraguea_lophii_cyto_8P5D_54|Chain)
+Genes 2:
+  - A0A1S3X011: Ubiquitin-60S ribosomal protein L40 (от Nicotiana_tabacum_cyto_8B2L_59|Chain)
+  - S7XSQ3: Ubiquitin (от Spraguea_lophii_cyto_8P5D_25|Chain)
+------------------------------------------------------------
+
+NODE: N22
+Genes 1:
+  - Q4QBK2: Peptidyl-prolyl cis-trans isomerase (от Leishmania_major_mito_7ANE_100|Chain)
+  - Q57WF8: Peptidyl-prolyl cis-trans isomerase (от Trypanosoma_brucei_brucei_mito_6HIV_119|Chain)
+Genes 2:
+  - Q383Y4: Peptidyl-prolyl cis-trans isomerase (от Trypanosoma_brucei_brucei_mito_6HIV_128|Chain)
+  - Q4Q1A6: Peptidyl-prolyl cis-trans isomerase (от Leishmania_major_mito_7ANE_87|Chain)
+------------------------------------------------------------

@@ -1,0 +1,1 @@
+((Chlamydomonas_reinhardtii_chloro_9TVU_32|Chain:1.43306,Chlamydomonas_reinhardtii_chloro_9TVU_52|Chain:1.52069):0.0972074,(Spraguea_lophii_cyto_8P5D_25|Chain:0.739687,((Nicotiana_tabacum_cyto_8B2L_16|Chain:0.302301,Spraguea_lophii_cyto_8P5D_54|Chain:0.232418):0.170182,Nicotiana_tabacum_cyto_8B2L_59|Chain:0.169007):0.370697):0.0972074);

@@ -1,0 +1,1 @@
+((Saccharomyces_cerevisiae_mito_5MRE_32|Chain:0.977602,Neurospora_crassa_mito_6YWE_34|Chain:0.678902)n1:0.328504,(Homo_sapiens_mito_7QI4_71|Chain:2.43462e-06,Sus_scrofa_mito_5AJ4_73|Chain:0.89558)n2:0.328504)n0;

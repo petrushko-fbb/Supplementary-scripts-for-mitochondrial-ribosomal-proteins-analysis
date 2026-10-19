@@ -1,0 +1,1 @@
+(((Homo_sapiens_mito_7QI4_19|Chain:0.933679,Sus_scrofa_mito_5AJ4_20|Chain:3.7577e-06):0.259905,Arabidopsis_thaliana_mito_6XYW_71|Chain:1.2414):0.269865,(Neurospora_crassa_mito_6YWE_67|Chain:0.790798,Saccharomyces_cerevisiae_mito_5MRE_61|Chain:0.73371):0.269865);

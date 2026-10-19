@@ -1,0 +1,1 @@
+((Nicotiana_tabacum_cyto_8B2L_60|Chain:0,Arabidopsis_thaliana_cyto_9H3G_5|Chain:0)n1:0.00937775,((Danio_rerio_cyto_7OYB_74|Chain:5e-07,Oryctolagus_cuniculus_cyto_8VVT_45|Chain:5e-07)n3:-0,Mus_musculus_cyto_7LS2_42|Chain:5e-07)n2:0.00937775)n0;

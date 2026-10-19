@@ -1,0 +1,53 @@
+HOG	OG	Gene Tree Parent Clade	Acinetobacter_baumannii_cyto	Arabidopsis_thaliana_cyto	Arabidopsis_thaliana_mito	Bacillus_subtilis	Caenorhabditis_elegans_cyto	Chlamydomonas_reinhardtii_chloro	Chlamydomonas_reinhardtii_mito	Danio_rerio_cyto	Drosophila_melanogaster_cyto	Entamoeba_histolytica_cyto	Enterococcus_faecalis_cyto	Escherichia_coli_cyto	Giardia_duodenalis_cyto	Homo_sapiens_mito	Leishmania major_mito	Methanococcus_jannaschii_cyto	Methanosarcina_acetivorans_cyto	Mus_musculus_cyto	Mycobacterium_smegmatis_cyto	Mycobacterium_tuberculosis_cyto	Mycoplasma_pneumoniae_cyto	Neurospora_crassa_cyto	Neurospora_crassa_mito	Nicotiana_tabacum_cyto	Oryctolagus_cuniculus_cyto	Plasmodium_falciparum_cyto	Polytomella_magna_mito	Pseudomonas_aeruginosa_cyto	Pyrococcus_furiosus_cyto	Saccharomyces_cerevisiae_cyto	Saccharomyces_cerevisiae_mito	Spinacia_oleracea_chloro	Spraguea_lophii_cyto	Staphylococcus_aureus_cyto	Sulfolobus_acidocaldarius_cyto	Sus_scrofa_mito	Tetrahymena_thermophila_mito	Thermus_thermophilus_cyto	Toxoplasma_gondii_mito	Trypanosoma_brucei	Trypanosoma_brucei_brucei_mito
+N4.HOG0000000	OG0000000	n0																			8V9J_28|Chain	5V93_10|Chain																					
+N4.HOG0000001	OG0000001	n0																			8V9J_17|Chain	5V93_48|Chain																					
+N4.HOG0000002	OG0000002	n0																			8V9J_36|Chain	5V93_15|Chain																					
+N4.HOG0000003	OG0000003	n0																			8V9J_27|Chain	5V93_9|Chain																					
+N4.HOG0000004	OG0000004	n0																			8V9J_47|Chain	5V93_26|Chain																					
+N4.HOG0000005	OG0000005	n0																			8V9J_37|Chain	5V93_16|Chain																					
+N4.HOG0000006	OG0000006	n0																			8V9J_12|Chain	5V93_43|Chain																					
+N4.HOG0000007	OG0000007	n0																			8V9J_9|Chain	5V93_40|Chain																					
+N4.HOG0000008	OG0000008	n0																			8V9J_5|Chain	5V93_36|Chain																					
+N4.HOG0000009	OG0000009	n0																			8V9J_45|Chain	5V93_24|Chain																					
+N4.HOG0000010	OG0000010	n0																			8V9J_7|Chain	5V93_38|Chain																					
+N4.HOG0000011	OG0000011	n0																			8V9J_11|Chain	5V93_42|Chain																					
+N4.HOG0000012	OG0000012	n0																			8V9J_10|Chain	5V93_41|Chain																					
+N4.HOG0000013	OG0000013	n0																			8V9J_2|Chain																						
+N4.HOG0000014	OG0000014	n0																			8V9J_19|Chain	5V93_50|Chain																					
+N4.HOG0000015	OG0000015	n0																			8V9J_13|Chain	5V93_44|Chain																					
+N4.HOG0000016	OG0000016	n0																			8V9J_8|Chain	5V93_39|Chain																					
+N4.HOG0000017	OG0000017	n0																			8V9J_31|Chain	5V93_13|Chain																					
+N4.HOG0000018	OG0000018	n0																			8V9J_30|Chain	5V93_12|Chain																					
+N4.HOG0000019	OG0000019	n0																			8V9J_46|Chain	5V93_25|Chain																					
+N4.HOG0000020	OG0000020	n0																			8V9J_4|Chain	5V93_35|Chain																					
+N4.HOG0000021	OG0000021	n0																			8V9J_3|Chain	5V93_34|Chain																					
+N4.HOG0000022	OG0000022	n0																			8V9J_51|Chain	5V93_30|Chain																					
+N4.HOG0000023	OG0000024	n0																			8V9J_18|Chain	5V93_49|Chain																					
+N4.HOG0000024	OG0000025	n0																			8V9J_38|Chain	5V93_17|Chain																					
+N4.HOG0000025	OG0000026	n0																			8V9J_29|Chain	5V93_11|Chain																					
+N4.HOG0000026	OG0000027	n0																			8V9J_44|Chain	5V93_23|Chain																					
+N4.HOG0000027	OG0000028	n0																			8V9J_40|Chain	5V93_19|Chain																					
+N4.HOG0000028	OG0000029	n0																			8V9J_39|Chain	5V93_18|Chain																					
+N4.HOG0000029	OG0000030	n0																			8V9J_55|Chain	5V93_2|Chain																					
+N4.HOG0000030	OG0000031	n0																			8V9J_16|Chain	5V93_47|Chain																					
+N4.HOG0000031	OG0000032	n0																			8V9J_15|Chain	5V93_46|Chain																					
+N4.HOG0000032	OG0000033	n0																			8V9J_43|Chain	5V93_22|Chain																					
+N4.HOG0000033	OG0000034	n0																			8V9J_42|Chain	5V93_21|Chain																					
+N4.HOG0000034	OG0000035	n0																			8V9J_49|Chain	5V93_28|Chain																					
+N4.HOG0000035	OG0000036	n0																			8V9J_58|Chain	5V93_5|Chain																					
+N4.HOG0000036	OG0000037	n0																			8V9J_14|Chain	5V93_45|Chain																					
+N4.HOG0000037	OG0000039	n0																			8V9J_34|Chain																						
+N4.HOG0000038	OG0000040	n0																			8V9J_56|Chain	5V93_3|Chain																					
+N4.HOG0000039	OG0000071	n0																			8V9J_32|Chain	5V93_14|Chain																					
+N4.HOG0000040	OG0000074	n0																			8V9J_52|Chain	5V93_31|Chain																					
+N4.HOG0000041	OG0000084	n0																			8V9J_57|Chain	5V93_4|Chain																					
+N4.HOG0000042	OG0000085	n0																			8V9J_41|Chain	5V93_20|Chain																					
+N4.HOG0000043	OG0000088	n0																			8V9J_20|Chain	5V93_51|Chain																					
+N4.HOG0000044	OG0000089	n0																			8V9J_6|Chain	5V93_37|Chain																					
+N4.HOG0000045	OG0000091	n0																			8V9J_35|Chain																						
+N4.HOG0000046	OG0000092	n0																			8V9J_50|Chain	5V93_29|Chain																					
+N4.HOG0000047	OG0000096	n0																			8V9J_53|Chain	5V93_6|Chain																					
+N4.HOG0000048	OG0000097	n0																			8V9J_48|Chain	5V93_27|Chain																					
+N4.HOG0000049	OG0000114	n0																			8V9J_33|Chain																						
+N4.HOG0000050	OG0000278	-																			8V9J_54|Chain	5V93_1|Chain																					
+N4.HOG0000051	OG0000279	-																			8V9J_21|Chain	5V93_52|Chain																					

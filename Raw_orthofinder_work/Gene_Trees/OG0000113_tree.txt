@@ -1,0 +1,1 @@
+((Arabidopsis_thaliana_mito_6XYW_54|Chain:1.41481,Polytomella_magna_mito_8A22_88|Chain:0.848563):0.253177,(Saccharomyces_cerevisiae_mito_5MRE_65|Chain:0.797223,Neurospora_crassa_mito_6YWE_72|Chain:0.903683):0.253177);

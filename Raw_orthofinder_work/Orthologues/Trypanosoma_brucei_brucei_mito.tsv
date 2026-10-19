@@ -1,0 +1,560 @@
+Orthogroup	Species	Trypanosoma_brucei_brucei_mito	Orthologs
+OG0000000	Staphylococcus_aureus_cyto	6HIV_73|Chain	7P48_11|Chain
+OG0000000	Enterococcus_faecalis_cyto	6HIV_73|Chain	7P7Q_15|Chain
+OG0000000	Bacillus_subtilis	6HIV_73|Chain	3J9W_36|Chain
+OG0000000	Chlamydomonas_reinhardtii_chloro	6HIV_73|Chain	9TVU_9|Chain
+OG0000000	Spinacia_oleracea_chloro	6HIV_73|Chain	5X8P_10|Chain
+OG0000000	Thermus_thermophilus_cyto	6HIV_73|Chain	4V8U_40|Chains
+OG0000000	Escherichia_coli_cyto	6HIV_73|Chain	4V4G_25|Chains
+OG0000000	Acinetobacter_baumannii_cyto	6HIV_73|Chain	6V39_8|Chain
+OG0000000	Pseudomonas_aeruginosa_cyto	6HIV_73|Chain	6SPF_4|Chain
+OG0000000	Chlamydomonas_reinhardtii_mito	6HIV_73|Chain	7PKT_2|Chain
+OG0000000	Polytomella_magna_mito	6HIV_73|Chain	8A22_11|Chain
+OG0000000	Homo_sapiens_mito	6HIV_73|Chain	7QI4_38|Chain
+OG0000000	Sus_scrofa_mito	6HIV_73|Chain	5AJ4_49|Chain
+OG0000000	Toxoplasma_gondii_mito	6HIV_73|Chain	9I05_2|Chain
+OG0000000	Arabidopsis_thaliana_mito	6HIV_73|Chain	6XYW_3|Chain
+OG0000000	Tetrahymena_thermophila_mito	6HIV_73|Chain	6Z1P_4|Chain
+OG0000000	Saccharomyces_cerevisiae_mito	6HIV_73|Chain	5MRE_3|Chain
+OG0000000	Neurospora_crassa_mito	6HIV_73|Chain	6YWE_4|Chain
+OG0000000	Mycoplasma_pneumoniae_cyto	6HIV_73|Chain	8P7Y_34|Chain
+OG0000000	Mycobacterium_tuberculosis_cyto	6HIV_73|Chain	5V93_10|Chain
+OG0000000	Mycobacterium_smegmatis_cyto	6HIV_73|Chain	8V9J_28|Chain
+OG0000000	Drosophila_melanogaster_cyto	6HIV_73|Chain	4V6W_63|Chain
+OG0000000	Mus_musculus_cyto	6HIV_73|Chain	7LS2_13|Chain
+OG0000000	Oryctolagus_cuniculus_cyto	6HIV_73|Chain	8VVT_2|Chain
+OG0000000	Danio_rerio_cyto	6HIV_73|Chain	7OYB_7|Chain
+OG0000000	Caenorhabditis_elegans_cyto	6HIV_73|Chain	9CAI_5|Chain
+OG0000000	Neurospora_crassa_cyto	6HIV_73|Chain	7R81_9|Chain
+OG0000000	Saccharomyces_cerevisiae_cyto	6HIV_73|Chain	5DC3_40|Chains
+OG0000000	Arabidopsis_thaliana_cyto	6HIV_73|Chain	9H3G_22|Chain
+OG0000000	Nicotiana_tabacum_cyto	6HIV_73|Chain	8B2L_76|Chain
+OG0000000	Plasmodium_falciparum_cyto	6HIV_73|Chain	9BUS_70|Chain
+OG0000000	Trypanosoma_brucei	6HIV_73|Chain	8OVE_69|Chain
+OG0000000	Entamoeba_histolytica_cyto	6HIV_73|Chain	9V21_5|Chain
+OG0000000	Giardia_duodenalis_cyto	6HIV_73|Chain	8BSJ_2|Chain
+OG0000000	Spraguea_lophii_cyto	6HIV_73|Chain	8P5D_5|Chain
+OG0000000	Pyrococcus_furiosus_cyto	6HIV_73|Chain	4V6U_33|Chain
+OG0000000	Methanococcus_jannaschii_cyto	6HIV_73|Chain	4V4N_45|Chain
+OG0000000	Methanosarcina_acetivorans_cyto	6HIV_73|Chain	9ZNI_7|Chain
+OG0000000	Sulfolobus_acidocaldarius_cyto	6HIV_73|Chain	8HKY_7|Chain
+OG0000000	Leishmania major_mito	6HIV_73|Chain	7ANE_54|Chain
+OG0000001	Staphylococcus_aureus_cyto	6HIV_39|Chain	7P48_50|Chain
+OG0000001	Enterococcus_faecalis_cyto	6HIV_39|Chain	7P7Q_50|Chain
+OG0000001	Bacillus_subtilis	6HIV_39|Chain	3J9W_17|Chain
+OG0000001	Mycobacterium_smegmatis_cyto	6HIV_39|Chain	8V9J_17|Chain
+OG0000001	Mycobacterium_tuberculosis_cyto	6HIV_39|Chain	5V93_48|Chain
+OG0000001	Acinetobacter_baumannii_cyto	6HIV_39|Chain	6V39_47|Chain
+OG0000001	Pseudomonas_aeruginosa_cyto	6HIV_39|Chain	6SPF_49|Chain
+OG0000001	Escherichia_coli_cyto	6HIV_39|Chain	4V4G_17|Chains
+OG0000001	Thermus_thermophilus_cyto	6HIV_39|Chain	4V8U_17|Chains
+OG0000001	Mycoplasma_pneumoniae_cyto	6HIV_39|Chain	8P7Y_25|Chain
+OG0000001	Spinacia_oleracea_chloro	6HIV_39|Chain	5X8P_46|Chain
+OG0000001	Chlamydomonas_reinhardtii_chloro	6HIV_39|Chain	9TVU_44|Chain
+OG0000001	Homo_sapiens_mito	6HIV_39|Chain	7QI4_14|Chain
+OG0000001	Sus_scrofa_mito	6HIV_39|Chain	5AJ4_14|Chain
+OG0000001	Neurospora_crassa_mito	6HIV_39|Chain	6YWE_63|Chain
+OG0000001	Saccharomyces_cerevisiae_mito	6HIV_39|Chain	5MRE_57|Chain
+OG0000001	Tetrahymena_thermophila_mito	6HIV_39|Chain	6Z1P_65|Chain
+OG0000001	Toxoplasma_gondii_mito	6HIV_39|Chain	9HQV_17|Chain
+OG0000001	Plasmodium_falciparum_cyto	6HIV_39|Chain	9BUS_29|Chain
+OG0000001	Trypanosoma_brucei	6HIV_39|Chain	8OVE_32|Chain
+OG0000001	Neurospora_crassa_cyto	6HIV_39|Chain	7R81_26|Chain
+OG0000001	Saccharomyces_cerevisiae_cyto	6HIV_39|Chain	5DC3_13|Chains
+OG0000001	Arabidopsis_thaliana_cyto	6HIV_39|Chain	9H3G_44|Chain
+OG0000001	Nicotiana_tabacum_cyto	6HIV_39|Chain	8B2L_26|Chain
+OG0000001	Danio_rerio_cyto	6HIV_39|Chain	7OYB_27|Chain
+OG0000001	Oryctolagus_cuniculus_cyto	6HIV_39|Chain	8VVT_62|Chain
+OG0000001	Mus_musculus_cyto	6HIV_39|Chain	7LS2_51|Chain
+OG0000001	Caenorhabditis_elegans_cyto	6HIV_39|Chain	9CAI_36|Chain
+OG0000001	Drosophila_melanogaster_cyto	6HIV_39|Chain	4V6W_11|Chain
+OG0000001	Entamoeba_histolytica_cyto	6HIV_39|Chain	9V21_65|Chain
+OG0000001	Giardia_duodenalis_cyto	6HIV_39|Chain	8BSJ_57|Chain
+OG0000001	Spraguea_lophii_cyto	6HIV_39|Chain	8P5D_61|Chain
+OG0000001	Sulfolobus_acidocaldarius_cyto	6HIV_39|Chain	8HKY_51|Chain
+OG0000001	Methanococcus_jannaschii_cyto	6HIV_39|Chain	4V4N_30|Chain
+OG0000001	Pyrococcus_furiosus_cyto	6HIV_39|Chain	4V6U_8|Chain
+OG0000001	Methanosarcina_acetivorans_cyto	6HIV_39|Chain	9ZNI_53|Chain
+OG0000001	Chlamydomonas_reinhardtii_mito	6HIV_39|Chain	7PKQ_29|Chain
+OG0000001	Polytomella_magna_mito	6HIV_39|Chain	8A22_78|Chain
+OG0000001	Arabidopsis_thaliana_mito	6HIV_39|Chain	6XYW_68|Chain
+OG0000001	Leishmania major_mito	6HIV_39|Chain	7ANE_47|Chain
+OG0000002	Staphylococcus_aureus_cyto	6HIV_78|Chain	7P48_15|Chain
+OG0000002	Enterococcus_faecalis_cyto	6HIV_78|Chain	7P7Q_19|Chain
+OG0000002	Bacillus_subtilis	6HIV_78|Chain	3J9W_42|Chain
+OG0000002	Acinetobacter_baumannii_cyto	6HIV_78|Chain	6V39_13|Chain
+OG0000002	Pseudomonas_aeruginosa_cyto	6HIV_78|Chain	6SPF_10|Chain
+OG0000002	Thermus_thermophilus_cyto	6HIV_78|Chain	4V8U_45|Chains
+OG0000002	Escherichia_coli_cyto	6HIV_78|Chain	4V4G_31|Chains
+OG0000002	Spinacia_oleracea_chloro	6HIV_78|Chain	5X8P_15|Chain
+OG0000002	Chlamydomonas_reinhardtii_chloro	6HIV_78|Chain	9TVU_16|Chain
+OG0000002	Mycobacterium_tuberculosis_cyto	6HIV_78|Chain	5V93_15|Chain
+OG0000002	Mycobacterium_smegmatis_cyto	6HIV_78|Chain	8V9J_36|Chain
+OG0000002	Mycoplasma_pneumoniae_cyto	6HIV_78|Chain	8P7Y_41|Chain
+OG0000002	Toxoplasma_gondii_mito	6HIV_78|Chain	9I05_7|Chain
+OG0000002	Saccharomyces_cerevisiae_mito	6HIV_78|Chain	5MRE_8|Chain
+OG0000002	Neurospora_crassa_mito	6HIV_78|Chain	6YWE_11|Chain
+OG0000002	Chlamydomonas_reinhardtii_mito	6HIV_78|Chain	7PKT_6|Chain
+OG0000002	Polytomella_magna_mito	6HIV_78|Chain	8A22_16|Chain
+OG0000002	Arabidopsis_thaliana_mito	6HIV_78|Chain	6XYW_10|Chain
+OG0000002	Sus_scrofa_mito	6HIV_78|Chain	5AJ4_54|Chain
+OG0000002	Homo_sapiens_mito	6HIV_78|Chain	7QI4_43|Chain
+OG0000002	Tetrahymena_thermophila_mito	6HIV_78|Chain	6Z1P_15|Chain
+OG0000002	Sulfolobus_acidocaldarius_cyto	6HIV_78|Chain	8HKY_13|Chain
+OG0000002	Methanococcus_jannaschii_cyto	6HIV_78|Chain	4V4N_54|Chain
+OG0000002	Pyrococcus_furiosus_cyto	6HIV_78|Chain	4V6U_47|Chain
+OG0000002	Methanosarcina_acetivorans_cyto	6HIV_78|Chain	9ZNI_12|Chain
+OG0000002	Spraguea_lophii_cyto	6HIV_78|Chain	8P5D_27|Chain
+OG0000002	Giardia_duodenalis_cyto	6HIV_78|Chain	8BSJ_16|Chain
+OG0000002	Trypanosoma_brucei	6HIV_78|Chain	8OVE_61|Chain
+OG0000002	Entamoeba_histolytica_cyto	6HIV_78|Chain	9V21_15|Chain
+OG0000002	Plasmodium_falciparum_cyto	6HIV_78|Chain	9BUS_57|Chain
+OG0000002	Mus_musculus_cyto	6HIV_78|Chain	7LS2_17|Chain
+OG0000002	Oryctolagus_cuniculus_cyto	6HIV_78|Chain	8VVT_13|Chain
+OG0000002	Danio_rerio_cyto	6HIV_78|Chain	7OYB_31|Chain
+OG0000002	Drosophila_melanogaster_cyto	6HIV_78|Chain	4V6W_41|Chain
+OG0000002	Caenorhabditis_elegans_cyto	6HIV_78|Chain	9CAI_47|Chain
+OG0000002	Arabidopsis_thaliana_cyto	6HIV_78|Chain	9H3G_32|Chain
+OG0000002	Nicotiana_tabacum_cyto	6HIV_78|Chain	8B2L_65|Chain
+OG0000002	Saccharomyces_cerevisiae_cyto	6HIV_78|Chain	5DC3_52|Chains
+OG0000002	Neurospora_crassa_cyto	6HIV_78|Chain	7R81_33|Chain
+OG0000002	Leishmania major_mito	6HIV_78|Chain	7ANE_59|Chain
+OG0000004	Staphylococcus_aureus_cyto	6HIV_87|Chain	7P48_26|Chain
+OG0000004	Bacillus_subtilis	6HIV_87|Chain	3J9W_53|Chain
+OG0000004	Enterococcus_faecalis_cyto	6HIV_87|Chain	7P7Q_30|Chain
+OG0000004	Thermus_thermophilus_cyto	6HIV_87|Chain	4V8U_56|Chains
+OG0000004	Escherichia_coli_cyto	6HIV_87|Chain	4V4G_42|Chains
+OG0000004	Spinacia_oleracea_chloro	6HIV_87|Chain	5X8P_26|Chain
+OG0000004	Chlamydomonas_reinhardtii_chloro	6HIV_87|Chain	9TVU_27|Chain
+OG0000004	Acinetobacter_baumannii_cyto	6HIV_87|Chain	6V39_24|Chain
+OG0000004	Pseudomonas_aeruginosa_cyto	6HIV_87|Chain	6SPF_21|Chain
+OG0000004	Mycobacterium_tuberculosis_cyto	6HIV_87|Chain	5V93_26|Chain
+OG0000004	Mycobacterium_smegmatis_cyto	6HIV_87|Chain	8V9J_47|Chain
+OG0000004	Mycoplasma_pneumoniae_cyto	6HIV_87|Chain	8P7Y_52|Chain
+OG0000004	Arabidopsis_thaliana_mito	6HIV_87|Chain	6XYW_21|Chain
+OG0000004	Tetrahymena_thermophila_mito	6HIV_87|Chain	6Z1P_25|Chain
+OG0000004	Sus_scrofa_mito	6HIV_87|Chain	5AJ4_65|Chain
+OG0000004	Homo_sapiens_mito	6HIV_87|Chain	7QI4_54|Chain
+OG0000004	Toxoplasma_gondii_mito	6HIV_87|Chain	9I05_17|Chain, 9I05_40|Chain
+OG0000004	Chlamydomonas_reinhardtii_mito	6HIV_87|Chain	7PKT_16|Chain
+OG0000004	Polytomella_magna_mito	6HIV_87|Chain	8A22_27|Chain
+OG0000004	Entamoeba_histolytica_cyto	6HIV_87|Chain	9V21_27|Chain
+OG0000004	Giardia_duodenalis_cyto	6HIV_87|Chain	8BSJ_26|Chain
+OG0000004	Spraguea_lophii_cyto	6HIV_87|Chain	8P5D_39|Chain
+OG0000004	Pyrococcus_furiosus_cyto	6HIV_87|Chain	4V6U_37|Chain
+OG0000004	Methanococcus_jannaschii_cyto	6HIV_87|Chain	4V4N_7|Chain
+OG0000004	Methanosarcina_acetivorans_cyto	6HIV_87|Chain	9ZNI_24|Chain
+OG0000004	Sulfolobus_acidocaldarius_cyto	6HIV_87|Chain	8HKY_23|Chain
+OG0000004	Plasmodium_falciparum_cyto	6HIV_87|Chain	9BUS_66|Chain
+OG0000004	Saccharomyces_cerevisiae_cyto	6HIV_87|Chain	5DC3_62|Chains
+OG0000004	Neurospora_crassa_cyto	6HIV_87|Chain	7R81_53|Chain
+OG0000004	Trypanosoma_brucei	6HIV_87|Chain	8OVE_17|Chain
+OG0000004	Drosophila_melanogaster_cyto	6HIV_87|Chain	4V6W_57|Chain
+OG0000004	Mus_musculus_cyto	6HIV_87|Chain	7LS2_27|Chain
+OG0000004	Oryctolagus_cuniculus_cyto	6HIV_87|Chain	8VVT_23|Chain
+OG0000004	Danio_rerio_cyto	6HIV_87|Chain	7OYB_51|Chain
+OG0000004	Caenorhabditis_elegans_cyto	6HIV_87|Chain	9CAI_61|Chain
+OG0000004	Nicotiana_tabacum_cyto	6HIV_87|Chain	8B2L_72|Chain
+OG0000004	Arabidopsis_thaliana_cyto	6HIV_87|Chain	9H3G_7|Chain
+OG0000004	Leishmania major_mito	6HIV_87|Chain	7ANE_68|Chain
+OG0000009	Staphylococcus_aureus_cyto	6HIV_85|Chain	7P48_24|Chain
+OG0000009	Bacillus_subtilis	6HIV_85|Chain	3J9W_51|Chain
+OG0000009	Enterococcus_faecalis_cyto	6HIV_85|Chain	7P7Q_28|Chain
+OG0000009	Escherichia_coli_cyto	6HIV_85|Chain	4V4G_40|Chains
+OG0000009	Thermus_thermophilus_cyto	6HIV_85|Chain	4V8U_54|Chains
+OG0000009	Mycobacterium_tuberculosis_cyto	6HIV_85|Chain	5V93_24|Chain
+OG0000009	Mycobacterium_smegmatis_cyto	6HIV_85|Chain	8V9J_45|Chain
+OG0000009	Chlamydomonas_reinhardtii_chloro	6HIV_85|Chain	9TVU_25|Chain
+OG0000009	Spinacia_oleracea_chloro	6HIV_85|Chain	5X8P_24|Chain
+OG0000009	Acinetobacter_baumannii_cyto	6HIV_85|Chain	6V39_22|Chain
+OG0000009	Pseudomonas_aeruginosa_cyto	6HIV_85|Chain	6SPF_19|Chain
+OG0000009	Mycoplasma_pneumoniae_cyto	6HIV_85|Chain	8P7Y_50|Chain
+OG0000009	Sus_scrofa_mito	6HIV_85|Chain	5AJ4_63|Chain
+OG0000009	Homo_sapiens_mito	6HIV_85|Chain	7QI4_52|Chain
+OG0000009	Arabidopsis_thaliana_mito	6HIV_85|Chain	6XYW_19|Chain
+OG0000009	Neurospora_crassa_mito	6HIV_85|Chain	6YWE_18|Chain
+OG0000009	Saccharomyces_cerevisiae_mito	6HIV_85|Chain	5MRE_15|Chain
+OG0000009	Spraguea_lophii_cyto	6HIV_85|Chain	8P5D_29|Chain
+OG0000009	Sulfolobus_acidocaldarius_cyto	6HIV_85|Chain	8HKY_20|Chain
+OG0000009	Methanococcus_jannaschii_cyto	6HIV_85|Chain	4V4N_5|Chain
+OG0000009	Pyrococcus_furiosus_cyto	6HIV_85|Chain	4V6U_60|Chain
+OG0000009	Methanosarcina_acetivorans_cyto	6HIV_85|Chain	9ZNI_22|Chain
+OG0000009	Plasmodium_falciparum_cyto	6HIV_85|Chain	9BUS_63|Chain
+OG0000009	Entamoeba_histolytica_cyto	6HIV_85|Chain	9V21_18|Chain
+OG0000009	Giardia_duodenalis_cyto	6HIV_85|Chain	8BSJ_17|Chain
+OG0000009	Saccharomyces_cerevisiae_cyto	6HIV_85|Chain	5DC3_53|Chains
+OG0000009	Neurospora_crassa_cyto	6HIV_85|Chain	7R81_35|Chain
+OG0000009	Trypanosoma_brucei	6HIV_85|Chain	8OVE_10|Chain
+OG0000009	Arabidopsis_thaliana_cyto	6HIV_85|Chain	9H3G_6|Chain
+OG0000009	Nicotiana_tabacum_cyto	6HIV_85|Chain	8B2L_70|Chain
+OG0000009	Danio_rerio_cyto	6HIV_85|Chain	7OYB_33|Chain
+OG0000009	Oryctolagus_cuniculus_cyto	6HIV_85|Chain	8VVT_14|Chain
+OG0000009	Mus_musculus_cyto	6HIV_85|Chain	7LS2_18|Chain
+OG0000009	Drosophila_melanogaster_cyto	6HIV_85|Chain	4V6W_54|Chain
+OG0000009	Caenorhabditis_elegans_cyto	6HIV_85|Chain	9CAI_68|Chain
+OG0000009	Polytomella_magna_mito	6HIV_85|Chain	8A22_25|Chain
+OG0000009	Chlamydomonas_reinhardtii_mito	6HIV_85|Chain	7PKT_14|Chain
+OG0000009	Leishmania major_mito	6HIV_85|Chain	7ANE_66|Chain
+OG0000016	Staphylococcus_aureus_cyto	6HIV_31|Chain	7P48_41|Chain
+OG0000016	Enterococcus_faecalis_cyto	6HIV_31|Chain	7P7Q_41|Chain
+OG0000016	Bacillus_subtilis	6HIV_31|Chain	3J9W_8|Chain
+OG0000016	Mycobacterium_smegmatis_cyto	6HIV_31|Chain	8V9J_8|Chain
+OG0000016	Mycobacterium_tuberculosis_cyto	6HIV_31|Chain	5V93_39|Chain
+OG0000016	Chlamydomonas_reinhardtii_chloro	6HIV_31|Chain	9TVU_36|Chain
+OG0000016	Spinacia_oleracea_chloro	6HIV_31|Chain	5X8P_38|Chain
+OG0000016	Escherichia_coli_cyto	6HIV_31|Chain	4V4G_8|Chains
+OG0000016	Thermus_thermophilus_cyto	6HIV_31|Chain	4V8U_8|Chains
+OG0000016	Acinetobacter_baumannii_cyto	6HIV_31|Chain	6V39_38|Chain
+OG0000016	Pseudomonas_aeruginosa_cyto	6HIV_31|Chain	6SPF_40|Chain
+OG0000016	Mycoplasma_pneumoniae_cyto	6HIV_31|Chain	8P7Y_16|Chain
+OG0000016	Giardia_duodenalis_cyto	6HIV_31|Chain	8BSJ_54|Chain
+OG0000016	Entamoeba_histolytica_cyto	6HIV_31|Chain	9V21_70|Chain
+OG0000016	Caenorhabditis_elegans_cyto	6HIV_31|Chain	9CAI_15|Chain
+OG0000016	Drosophila_melanogaster_cyto	6HIV_31|Chain	4V6W_32|Chain
+OG0000016	Oryctolagus_cuniculus_cyto	6HIV_31|Chain	8VVT_73|Chain
+OG0000016	Mus_musculus_cyto	6HIV_31|Chain	7LS2_73|Chain
+OG0000016	Danio_rerio_cyto	6HIV_31|Chain	7OYB_48|Chain
+OG0000016	Plasmodium_falciparum_cyto	6HIV_31|Chain	9BUS_18|Chain
+OG0000016	Nicotiana_tabacum_cyto	6HIV_31|Chain	8B2L_33|Chain
+OG0000016	Arabidopsis_thaliana_cyto	6HIV_31|Chain	9H3G_12|Chain
+OG0000016	Neurospora_crassa_cyto	6HIV_31|Chain	7R81_48|Chain
+OG0000016	Saccharomyces_cerevisiae_cyto	6HIV_31|Chain	5DC3_24|Chains
+OG0000016	Trypanosoma_brucei	6HIV_31|Chain	8OVE_36|Chain
+OG0000016	Arabidopsis_thaliana_mito	6HIV_31|Chain	6XYW_64|Chain
+OG0000016	Spraguea_lophii_cyto	6HIV_31|Chain	8P5D_72|Chain
+OG0000016	Pyrococcus_furiosus_cyto	6HIV_31|Chain	4V6U_3|Chain
+OG0000016	Methanococcus_jannaschii_cyto	6HIV_31|Chain	4V4N_21|Chain
+OG0000016	Methanosarcina_acetivorans_cyto	6HIV_31|Chain	9ZNI_44|Chain
+OG0000016	Sulfolobus_acidocaldarius_cyto	6HIV_31|Chain	8HKY_47|Chain
+OG0000016	Saccharomyces_cerevisiae_mito	6HIV_31|Chain	5MRE_48|Chain
+OG0000016	Neurospora_crassa_mito	6HIV_31|Chain	6YWE_54|Chain
+OG0000016	Leishmania major_mito	6HIV_31|Chain	7ANE_46|Chain
+OG0000025	Staphylococcus_aureus_cyto	6HIV_79|Chain	7P48_17|Chain
+OG0000025	Enterococcus_faecalis_cyto	6HIV_79|Chain	7P7Q_21|Chain
+OG0000025	Bacillus_subtilis	6HIV_79|Chain	3J9W_44|Chain
+OG0000025	Mycobacterium_smegmatis_cyto	6HIV_79|Chain	8V9J_38|Chain
+OG0000025	Mycobacterium_tuberculosis_cyto	6HIV_79|Chain	5V93_17|Chain
+OG0000025	Spinacia_oleracea_chloro	6HIV_79|Chain	5X8P_17|Chain
+OG0000025	Chlamydomonas_reinhardtii_chloro	6HIV_79|Chain	9TVU_18|Chain
+OG0000025	Thermus_thermophilus_cyto	6HIV_79|Chain	4V8U_47|Chains
+OG0000025	Escherichia_coli_cyto	6HIV_79|Chain	4V4G_33|Chains
+OG0000025	Pseudomonas_aeruginosa_cyto	6HIV_79|Chain	6SPF_12|Chain
+OG0000025	Acinetobacter_baumannii_cyto	6HIV_79|Chain	6V39_15|Chain
+OG0000025	Mycoplasma_pneumoniae_cyto	6HIV_79|Chain	8P7Y_43|Chain
+OG0000025	Tetrahymena_thermophila_mito	6HIV_79|Chain	6Z1P_17|Chain
+OG0000025	Saccharomyces_cerevisiae_mito	6HIV_79|Chain	5MRE_10|Chain
+OG0000025	Neurospora_crassa_mito	6HIV_79|Chain	6YWE_13|Chain
+OG0000025	Arabidopsis_thaliana_mito	6HIV_79|Chain	6XYW_12|Chain
+OG0000025	Chlamydomonas_reinhardtii_mito	6HIV_79|Chain	7PKT_8|Chain
+OG0000025	Polytomella_magna_mito	6HIV_79|Chain	8A22_18|Chain
+OG0000025	Homo_sapiens_mito	6HIV_79|Chain	7QI4_45|Chain
+OG0000025	Sus_scrofa_mito	6HIV_79|Chain	5AJ4_56|Chain
+OG0000025	Toxoplasma_gondii_mito	6HIV_79|Chain	9I05_9|Chain
+OG0000025	Methanosarcina_acetivorans_cyto	6HIV_79|Chain	9ZNI_14|Chain
+OG0000025	Leishmania major_mito	6HIV_79|Chain	7ANE_60|Chain
+OG0000026	Staphylococcus_aureus_cyto	6HIV_74|Chain	7P48_12|Chain
+OG0000026	Bacillus_subtilis	6HIV_74|Chain	3J9W_37|Chain
+OG0000026	Enterococcus_faecalis_cyto	6HIV_74|Chain	7P7Q_16|Chain
+OG0000026	Acinetobacter_baumannii_cyto	6HIV_74|Chain	6V39_9|Chain
+OG0000026	Pseudomonas_aeruginosa_cyto	6HIV_74|Chain	6SPF_5|Chain
+OG0000026	Mycobacterium_tuberculosis_cyto	6HIV_74|Chain	5V93_11|Chain
+OG0000026	Mycobacterium_smegmatis_cyto	6HIV_74|Chain	8V9J_29|Chain
+OG0000026	Chlamydomonas_reinhardtii_chloro	6HIV_74|Chain	9TVU_10|Chain
+OG0000026	Spinacia_oleracea_chloro	6HIV_74|Chain	5X8P_11|Chain
+OG0000026	Mycoplasma_pneumoniae_cyto	6HIV_74|Chain	8P7Y_35|Chain
+OG0000026	Arabidopsis_thaliana_mito	6HIV_74|Chain	6XYW_5|Chain
+OG0000026	Toxoplasma_gondii_mito	6HIV_74|Chain	9I05_3|Chain
+OG0000026	Tetrahymena_thermophila_mito	6HIV_74|Chain	6Z1P_5|Chain
+OG0000026	Sus_scrofa_mito	6HIV_74|Chain	5AJ4_50|Chain
+OG0000026	Homo_sapiens_mito	6HIV_74|Chain	7QI4_39|Chain
+OG0000026	Polytomella_magna_mito	6HIV_74|Chain	8A22_12|Chain
+OG0000026	Chlamydomonas_reinhardtii_mito	6HIV_74|Chain	7PKT_3|Chain
+OG0000026	Escherichia_coli_cyto	6HIV_74|Chain	4V4G_26|Chains
+OG0000026	Thermus_thermophilus_cyto	6HIV_74|Chain	4V8U_41|Chains
+OG0000026	Saccharomyces_cerevisiae_mito	6HIV_74|Chain	5MRE_4|Chain
+OG0000026	Neurospora_crassa_mito	6HIV_74|Chain	6YWE_5|Chain
+OG0000026	Leishmania major_mito	6HIV_74|Chain	7ANE_55|Chain
+OG0000027	Staphylococcus_aureus_cyto	6HIV_84|Chain	7P48_23|Chain
+OG0000027	Bacillus_subtilis	6HIV_84|Chain	3J9W_50|Chain
+OG0000027	Enterococcus_faecalis_cyto	6HIV_84|Chain	7P7Q_27|Chain
+OG0000027	Mycobacterium_smegmatis_cyto	6HIV_84|Chain	8V9J_44|Chain
+OG0000027	Mycobacterium_tuberculosis_cyto	6HIV_84|Chain	5V93_23|Chain
+OG0000027	Thermus_thermophilus_cyto	6HIV_84|Chain	4V8U_53|Chains
+OG0000027	Escherichia_coli_cyto	6HIV_84|Chain	4V4G_39|Chains
+OG0000027	Pseudomonas_aeruginosa_cyto	6HIV_84|Chain	6SPF_18|Chain
+OG0000027	Acinetobacter_baumannii_cyto	6HIV_84|Chain	6V39_21|Chain
+OG0000027	Chlamydomonas_reinhardtii_chloro	6HIV_84|Chain	9TVU_24|Chain
+OG0000027	Mycoplasma_pneumoniae_cyto	6HIV_84|Chain	8P7Y_49|Chain
+OG0000027	Polytomella_magna_mito	6HIV_84|Chain	8A22_24|Chain
+OG0000027	Chlamydomonas_reinhardtii_mito	6HIV_84|Chain	7PKT_13|Chain
+OG0000027	Spinacia_oleracea_chloro	6HIV_84|Chain	5X8P_23|Chain
+OG0000027	Arabidopsis_thaliana_mito	6HIV_84|Chain	6XYW_18|Chain
+OG0000027	Tetrahymena_thermophila_mito	6HIV_84|Chain	6Z1P_22|Chain
+OG0000027	Toxoplasma_gondii_mito	6HIV_84|Chain	9I05_14|Chain
+OG0000027	Neurospora_crassa_mito	6HIV_84|Chain	6YWE_17|Chain
+OG0000027	Saccharomyces_cerevisiae_mito	6HIV_84|Chain	5MRE_14|Chain
+OG0000027	Homo_sapiens_mito	6HIV_84|Chain	7QI4_51|Chain
+OG0000027	Sus_scrofa_mito	6HIV_84|Chain	5AJ4_62|Chain
+OG0000027	Leishmania major_mito	6HIV_84|Chain	7ANE_65|Chain
+OG0000028	Staphylococcus_aureus_cyto	6HIV_81|Chain	7P48_19|Chain
+OG0000028	Enterococcus_faecalis_cyto	6HIV_81|Chain	7P7Q_23|Chain
+OG0000028	Bacillus_subtilis	6HIV_81|Chain	3J9W_46|Chain
+OG0000028	Mycoplasma_pneumoniae_cyto	6HIV_81|Chain	8P7Y_45|Chain
+OG0000028	Mycobacterium_smegmatis_cyto	6HIV_81|Chain	8V9J_40|Chain
+OG0000028	Mycobacterium_tuberculosis_cyto	6HIV_81|Chain	5V93_19|Chain
+OG0000028	Chlamydomonas_reinhardtii_chloro	6HIV_81|Chain	9TVU_20|Chain
+OG0000028	Spinacia_oleracea_chloro	6HIV_81|Chain	5X8P_19|Chain
+OG0000028	Escherichia_coli_cyto	6HIV_81|Chain	4V4G_35|Chains
+OG0000028	Thermus_thermophilus_cyto	6HIV_81|Chain	4V8U_49|Chains
+OG0000028	Neurospora_crassa_mito	6HIV_81|Chain	6YWE_15|Chain
+OG0000028	Saccharomyces_cerevisiae_mito	6HIV_81|Chain	5MRE_12|Chain
+OG0000028	Pseudomonas_aeruginosa_cyto	6HIV_81|Chain	6SPF_14|Chain
+OG0000028	Acinetobacter_baumannii_cyto	6HIV_81|Chain	6V39_17|Chain
+OG0000028	Chlamydomonas_reinhardtii_mito	6HIV_81|Chain	7PKT_10|Chain
+OG0000028	Polytomella_magna_mito	6HIV_81|Chain	8A22_20|Chain
+OG0000028	Arabidopsis_thaliana_mito	6HIV_81|Chain	6XYW_14|Chain
+OG0000028	Toxoplasma_gondii_mito	6HIV_81|Chain	9I05_11|Chain
+OG0000028	Sus_scrofa_mito	6HIV_81|Chain	5AJ4_58|Chain
+OG0000028	Homo_sapiens_mito	6HIV_81|Chain	7QI4_47|Chain
+OG0000028	Tetrahymena_thermophila_mito	6HIV_81|Chain	6Z1P_19|Chain
+OG0000028	Leishmania major_mito	6HIV_81|Chain	7ANE_62|Chain
+OG0000029	Staphylococcus_aureus_cyto	6HIV_80|Chain	7P48_18|Chain
+OG0000029	Enterococcus_faecalis_cyto	6HIV_80|Chain	7P7Q_22|Chain
+OG0000029	Bacillus_subtilis	6HIV_80|Chain	3J9W_45|Chain
+OG0000029	Mycoplasma_pneumoniae_cyto	6HIV_80|Chain	8P7Y_44|Chain
+OG0000029	Escherichia_coli_cyto	6HIV_80|Chain	4V4G_34|Chains
+OG0000029	Thermus_thermophilus_cyto	6HIV_80|Chain	4V8U_48|Chains
+OG0000029	Mycobacterium_tuberculosis_cyto	6HIV_80|Chain	5V93_18|Chain
+OG0000029	Mycobacterium_smegmatis_cyto	6HIV_80|Chain	8V9J_39|Chain
+OG0000029	Chlamydomonas_reinhardtii_chloro	6HIV_80|Chain	9TVU_19|Chain
+OG0000029	Spinacia_oleracea_chloro	6HIV_80|Chain	5X8P_18|Chain
+OG0000029	Pseudomonas_aeruginosa_cyto	6HIV_80|Chain	6SPF_13|Chain
+OG0000029	Acinetobacter_baumannii_cyto	6HIV_80|Chain	6V39_16|Chain
+OG0000029	Arabidopsis_thaliana_mito	6HIV_80|Chain	6XYW_13|Chain
+OG0000029	Polytomella_magna_mito	6HIV_80|Chain	8A22_19|Chain
+OG0000029	Chlamydomonas_reinhardtii_mito	6HIV_80|Chain	7PKT_9|Chain
+OG0000029	Sus_scrofa_mito	6HIV_80|Chain	5AJ4_57|Chain
+OG0000029	Homo_sapiens_mito	6HIV_80|Chain	7QI4_46|Chain
+OG0000029	Neurospora_crassa_mito	6HIV_80|Chain	6YWE_14|Chain
+OG0000029	Saccharomyces_cerevisiae_mito	6HIV_80|Chain	5MRE_11|Chain
+OG0000029	Toxoplasma_gondii_mito	6HIV_80|Chain	9I05_10|Chain
+OG0000029	Tetrahymena_thermophila_mito	6HIV_80|Chain	6Z1P_18|Chain
+OG0000029	Leishmania major_mito	6HIV_80|Chain	7ANE_61|Chain
+OG0000030	Staphylococcus_aureus_cyto	6HIV_70|Chain	7P48_1|Chain
+OG0000030	Bacillus_subtilis	6HIV_70|Chain	3J9W_29|Chain
+OG0000030	Enterococcus_faecalis_cyto	6HIV_70|Chain	7P7Q_6|Chain
+OG0000030	Mycobacterium_tuberculosis_cyto	6HIV_70|Chain	5V93_2|Chain
+OG0000030	Mycobacterium_smegmatis_cyto	6HIV_70|Chain	8V9J_55|Chain
+OG0000030	Spinacia_oleracea_chloro	6HIV_70|Chain	5X8P_2|Chain
+OG0000030	Thermus_thermophilus_cyto	6HIV_70|Chain	4V8U_32|Chains
+OG0000030	Chlamydomonas_reinhardtii_chloro	6HIV_70|Chain	9TVU_4|Chain
+OG0000030	Mycoplasma_pneumoniae_cyto	6HIV_70|Chain	8P7Y_58|Chain
+OG0000030	Neurospora_crassa_mito	6HIV_70|Chain	6YWE_27|Chain
+OG0000030	Homo_sapiens_mito	6HIV_70|Chain	7QI4_60|Chain
+OG0000030	Sus_scrofa_mito	6HIV_70|Chain	5AJ4_42|Chain
+OG0000030	Toxoplasma_gondii_mito	6HIV_70|Chain	9I05_23|Chain
+OG0000030	Tetrahymena_thermophila_mito	6HIV_70|Chain	6Z1P_31|Chain
+OG0000030	Arabidopsis_thaliana_mito	6HIV_70|Chain	6XYW_28|Chain
+OG0000030	Acinetobacter_baumannii_cyto	6HIV_70|Chain	6V39_1|Chain
+OG0000030	Pseudomonas_aeruginosa_cyto	6HIV_70|Chain	6SPF_29|Chain
+OG0000030	Escherichia_coli_cyto	6HIV_70|Chain	4V4G_49|Chains
+OG0000030	Chlamydomonas_reinhardtii_mito	6HIV_70|Chain	7PKT_23|Chain
+OG0000030	Polytomella_magna_mito	6HIV_70|Chain	8A22_35|Chain
+OG0000030	Saccharomyces_cerevisiae_mito	6HIV_70|Chain	5MRE_24|Chain
+OG0000030	Leishmania major_mito	6HIV_70|Chain	7ANE_74|Chain
+OG0000033	Staphylococcus_aureus_cyto	6HIV_83|Chain	7P48_22|Chain
+OG0000033	Bacillus_subtilis	6HIV_83|Chain	3J9W_49|Chain
+OG0000033	Enterococcus_faecalis_cyto	6HIV_83|Chain	7P7Q_26|Chain
+OG0000033	Acinetobacter_baumannii_cyto	6HIV_83|Chain	6V39_20|Chain
+OG0000033	Pseudomonas_aeruginosa_cyto	6HIV_83|Chain	6SPF_17|Chain
+OG0000033	Mycobacterium_tuberculosis_cyto	6HIV_83|Chain	5V93_22|Chain
+OG0000033	Mycobacterium_smegmatis_cyto	6HIV_83|Chain	8V9J_43|Chain
+OG0000033	Escherichia_coli_cyto	6HIV_83|Chain	4V4G_38|Chains
+OG0000033	Thermus_thermophilus_cyto	6HIV_83|Chain	4V8U_52|Chains
+OG0000033	Mycoplasma_pneumoniae_cyto	6HIV_83|Chain	8P7Y_48|Chain
+OG0000033	Chlamydomonas_reinhardtii_chloro	6HIV_83|Chain	9TVU_23|Chain
+OG0000033	Spinacia_oleracea_chloro	6HIV_83|Chain	5X8P_22|Chain
+OG0000033	Arabidopsis_thaliana_mito	6HIV_83|Chain	6XYW_17|Chain
+OG0000033	Chlamydomonas_reinhardtii_mito	6HIV_83|Chain	7PKT_12|Chain
+OG0000033	Polytomella_magna_mito	6HIV_83|Chain	8A22_23|Chain
+OG0000033	Tetrahymena_thermophila_mito	6HIV_83|Chain	6Z1P_21|Chain
+OG0000033	Toxoplasma_gondii_mito	6HIV_83|Chain	9I05_13|Chain
+OG0000033	Homo_sapiens_mito	6HIV_83|Chain	7QI4_50|Chain
+OG0000033	Sus_scrofa_mito	6HIV_83|Chain	5AJ4_61|Chain
+OG0000033	Leishmania major_mito	6HIV_83|Chain	7ANE_64|Chain
+OG0000039	Bacillus_subtilis	6HIV_77|Chain	3J9W_41|Chain
+OG0000039	Mycobacterium_smegmatis_cyto	6HIV_77|Chain	8V9J_34|Chain
+OG0000039	Escherichia_coli_cyto	6HIV_77|Chain	4V4G_30|Chains
+OG0000039	Pseudomonas_aeruginosa_cyto	6HIV_77|Chain	6SPF_9|Chain
+OG0000039	Chlamydomonas_reinhardtii_chloro	6HIV_77|Chain	9TVU_15|Chain
+OG0000039	Mycoplasma_pneumoniae_cyto	6HIV_77|Chain	8P7Y_40|Chain
+OG0000039	Sus_scrofa_mito	6HIV_77|Chain	5AJ4_53|Chain
+OG0000039	Homo_sapiens_mito	6HIV_77|Chain	7QI4_42|Chain
+OG0000039	Neurospora_crassa_mito	6HIV_77|Chain	6YWE_10|Chain
+OG0000039	Arabidopsis_thaliana_mito	6HIV_77|Chain	6XYW_9|Chain
+OG0000039	Tetrahymena_thermophila_mito	6HIV_77|Chain	6Z1P_14|Chain
+OG0000039	Toxoplasma_gondii_mito	6HIV_77|Chain	9I05_6|Chain
+OG0000039	Oryctolagus_cuniculus_cyto	6HIV_77|Chain	8VVT_50|Chain
+OG0000039	Mus_musculus_cyto	6HIV_77|Chain	7LS2_81|Chain
+OG0000039	Drosophila_melanogaster_cyto	6HIV_77|Chain	4V6W_40|Chain
+OG0000039	Pyrococcus_furiosus_cyto	6HIV_77|Chain	4V6U_56|Chain
+OG0000039	Methanococcus_jannaschii_cyto	6HIV_77|Chain	4V4N_52|Chain
+OG0000039	Leishmania major_mito	6HIV_77|Chain	7ANE_58|Chain
+OG0000093	Neurospora_crassa_mito	6HIV_65|Chain	6YWE_22|Chain
+OG0000093	Saccharomyces_cerevisiae_mito	6HIV_65|Chain	5MRE_19|Chain
+OG0000093	Arabidopsis_thaliana_mito	6HIV_65|Chain	6XYW_24|Chain
+OG0000093	Tetrahymena_thermophila_mito	6HIV_65|Chain	6Z1P_28|Chain
+OG0000093	Toxoplasma_gondii_mito	6HIV_65|Chain	9I05_20|Chain
+OG0000093	Sus_scrofa_mito	6HIV_65|Chain	5AJ4_37|Chain
+OG0000093	Homo_sapiens_mito	6HIV_65|Chain	7QI4_56|Chain
+OG0000093	Chlamydomonas_reinhardtii_mito	6HIV_65|Chain	7PKT_19|Chain
+OG0000093	Polytomella_magna_mito	6HIV_65|Chain	8A22_30|Chain
+OG0000093	Leishmania major_mito	6HIV_65|Chain	7ANE_70|Chain
+OG0000094	Saccharomyces_cerevisiae_mito	6HIV_66|Chain	5MRE_20|Chain
+OG0000094	Neurospora_crassa_mito	6HIV_66|Chain	6YWE_23|Chain
+OG0000094	Chlamydomonas_reinhardtii_mito	6HIV_66|Chain	7PKT_20|Chain
+OG0000094	Polytomella_magna_mito	6HIV_66|Chain	8A22_31|Chain
+OG0000094	Toxoplasma_gondii_mito	6HIV_66|Chain	9I05_21|Chain
+OG0000094	Tetrahymena_thermophila_mito	6HIV_66|Chain	6Z1P_29|Chain
+OG0000094	Arabidopsis_thaliana_mito	6HIV_66|Chain	6XYW_25|Chain
+OG0000094	Homo_sapiens_mito	6HIV_66|Chain	7QI4_57|Chain
+OG0000094	Sus_scrofa_mito	6HIV_66|Chain	5AJ4_38|Chain
+OG0000094	Leishmania major_mito	6HIV_66|Chain	7ANE_71|Chain
+OG0000095	Homo_sapiens_mito	6HIV_47|Chain	7QI4_24|Chain
+OG0000095	Sus_scrofa_mito	6HIV_47|Chain	5AJ4_25|Chain
+OG0000095	Neurospora_crassa_mito	6HIV_47|Chain	6YWE_70|Chain
+OG0000095	Tetrahymena_thermophila_mito	6HIV_47|Chain	6Z1P_71|Chain
+OG0000095	Toxoplasma_gondii_mito	6HIV_47|Chain	9HQV_22|Chain
+OG0000095	Saccharomyces_cerevisiae_mito	6HIV_47|Chain	5MRE_63|Chain
+OG0000095	Arabidopsis_thaliana_mito	6HIV_47|Chain	6XYW_52|Chain
+OG0000095	Polytomella_magna_mito	6HIV_47|Chain	8A22_84|Chain
+OG0000095	Chlamydomonas_reinhardtii_mito	6HIV_47|Chain	7PKQ_40|Chain
+OG0000095	Leishmania major_mito	6HIV_47|Chain	7ANE_18|Chain
+OG0000103	Saccharomyces_cerevisiae_mito	6HIV_93|Chain	5MRE_33|Chain
+OG0000103	Neurospora_crassa_mito	6HIV_93|Chain	6YWE_35|Chain
+OG0000103	Homo_sapiens_mito	6HIV_93|Chain	7QI4_73|Chain
+OG0000103	Sus_scrofa_mito	6HIV_93|Chain	5AJ4_75|Chain
+OG0000103	Arabidopsis_thaliana_mito	6HIV_93|Chain	6XYW_33|Chain
+OG0000103	Chlamydomonas_reinhardtii_mito	6HIV_93|Chain	7PKT_30|Chain
+OG0000103	Polytomella_magna_mito	6HIV_93|Chain	8A22_42|Chain
+OG0000103	Leishmania major_mito	6HIV_93|Chain	7ANE_112|Chain
+OG0000105	Saccharomyces_cerevisiae_mito	6HIV_94|Chain	5MRE_34|Chain
+OG0000105	Neurospora_crassa_mito	6HIV_94|Chain	6YWE_36|Chain
+OG0000105	Toxoplasma_gondii_mito	6HIV_94|Chain	9I05_30|Chain
+OG0000105	Tetrahymena_thermophila_mito	6HIV_94|Chain	6Z1P_38|Chain
+OG0000105	Sus_scrofa_mito	6HIV_94|Chain	5AJ4_77|Chain
+OG0000105	Homo_sapiens_mito	6HIV_94|Chain	7QI4_75|Chain
+OG0000105	Leishmania major_mito	6HIV_94|Chain	7ANE_106|Chain
+OG0000106	Neurospora_crassa_mito	6HIV_56|Chain	6YWE_79|Chain
+OG0000106	Saccharomyces_cerevisiae_mito	6HIV_56|Chain	5MRE_74|Chain
+OG0000106	Arabidopsis_thaliana_mito	6HIV_56|Chain	6XYW_77|Chain
+OG0000106	Toxoplasma_gondii_mito	6HIV_56|Chain	9HQV_1|Chain
+OG0000106	Tetrahymena_thermophila_mito	6HIV_56|Chain	6Z1P_83|Chain
+OG0000106	Leishmania major_mito	6HIV_56|Chain	7ANE_52|Chain
+OG0000107	Neurospora_crassa_mito	6HIV_86|Chain	6YWE_19|Chain
+OG0000107	Saccharomyces_cerevisiae_mito	6HIV_86|Chain	5MRE_16|Chain
+OG0000107	Sus_scrofa_mito	6HIV_86|Chain	5AJ4_64|Chain
+OG0000107	Homo_sapiens_mito	6HIV_86|Chain	7QI4_53|Chain
+OG0000107	Toxoplasma_gondii_mito	6HIV_86|Chain	9I05_16|Chain
+OG0000107	Leishmania major_mito	6HIV_86|Chain	7ANE_67|Chain
+OG0000112	Toxoplasma_gondii_mito	6HIV_119|Chain, 6HIV_128|Chain	9I05_51|Chain
+OG0000112	Leishmania major_mito	6HIV_119|Chain	7ANE_100|Chain
+OG0000112	Leishmania major_mito	6HIV_128|Chain	7ANE_87|Chain
+OG0000120	Sus_scrofa_mito	6HIV_95|Chain	5AJ4_80|Chain
+OG0000120	Homo_sapiens_mito	6HIV_95|Chain	7QI4_78|Chain
+OG0000120	Leishmania major_mito	6HIV_95|Chain	7ANE_105|Chain
+OG0000121	Saccharomyces_cerevisiae_mito	6HIV_54|Chain	5MRE_69|Chain
+OG0000121	Neurospora_crassa_mito	6HIV_54|Chain	6YWE_76|Chains
+OG0000121	Leishmania major_mito	6HIV_54|Chain	7ANE_42|Chain
+OG0000128	Tetrahymena_thermophila_mito	6HIV_49|Chain	6Z1P_74|Chain
+OG0000128	Leishmania major_mito	6HIV_49|Chain	7ANE_35|Chain
+OG0000186	Leishmania major_mito	6HIV_23|Chain	7ANE_7|Chain
+OG0000187	Leishmania major_mito	6HIV_108|Chain	7ANE_99|Chain
+OG0000188	Leishmania major_mito	6HIV_120|Chain	7ANE_98|Chain
+OG0000189	Leishmania major_mito	6HIV_106|Chain	7ANE_97|Chain
+OG0000190	Leishmania major_mito	6HIV_115|Chain	7ANE_96|Chain
+OG0000191	Leishmania major_mito	6HIV_91|Chain	7ANE_95|Chain
+OG0000192	Leishmania major_mito	6HIV_123|Chain	7ANE_94|Chain
+OG0000193	Leishmania major_mito	6HIV_116|Chain	7ANE_93|Chain
+OG0000194	Leishmania major_mito	6HIV_105|Chain	7ANE_92|Chain
+OG0000195	Leishmania major_mito	6HIV_92|Chain	7ANE_91|Chain
+OG0000196	Leishmania major_mito	6HIV_132|Chain	7ANE_90|Chain
+OG0000197	Leishmania major_mito	6HIV_41|Chain	7ANE_9|Chain
+OG0000198	Leishmania major_mito	6HIV_122|Chain	7ANE_89|Chain
+OG0000199	Leishmania major_mito	6HIV_129|Chain	7ANE_88|Chain
+OG0000200	Leishmania major_mito	6HIV_110|Chain	7ANE_86|Chain
+OG0000201	Leishmania major_mito	6HIV_112|Chain	7ANE_85|Chain
+OG0000202	Leishmania major_mito	6HIV_68|Chain	7ANE_84|Chain
+OG0000203	Leishmania major_mito	6HIV_125|Chain	7ANE_83|Chain
+OG0000204	Leishmania major_mito	6HIV_131|Chain	7ANE_82|Chain
+OG0000205	Leishmania major_mito	6HIV_130|Chain	7ANE_80|Chain
+OG0000206	Leishmania major_mito	6HIV_4|Chain	7ANE_8|Chain
+OG0000207	Leishmania major_mito	6HIV_90|Chain	7ANE_79|Chain
+OG0000208	Leishmania major_mito	6HIV_89|Chain	7ANE_78|Chain
+OG0000209	Leishmania major_mito	6HIV_88|Chain	7ANE_77|Chain
+OG0000210	Leishmania major_mito	6HIV_72|Chain	7ANE_76|Chain
+OG0000211	Leishmania major_mito	6HIV_71|Chain	7ANE_75|Chain
+OG0000212	Leishmania major_mito	6HIV_69|Chain	7ANE_73|Chain
+OG0000213	Leishmania major_mito	6HIV_67|Chain	7ANE_72|Chain
+OG0000214	Leishmania major_mito	6HIV_64|Chain	7ANE_69|Chain
+OG0000215	Leishmania major_mito	6HIV_82|Chain	7ANE_63|Chain
+OG0000216	Leishmania major_mito	6HIV_48|Chain	7ANE_6|Chain
+OG0000217	Leishmania major_mito	6HIV_76|Chain	7ANE_57|Chain
+OG0000218	Leishmania major_mito	6HIV_75|Chain	7ANE_56|Chain
+OG0000219	Leishmania major_mito	6HIV_28|Chain	7ANE_53|Chain
+OG0000220	Leishmania major_mito	6HIV_13|Chain	7ANE_51|Chain
+OG0000221	Leishmania major_mito	6HIV_29|Chain	7ANE_50|Chain
+OG0000222	Leishmania major_mito	6HIV_34|Chain	7ANE_5|Chain
+OG0000223	Leishmania major_mito	6HIV_30|Chain	7ANE_49|Chain
+OG0000224	Leishmania major_mito	6HIV_46|Chain	7ANE_48|Chain
+OG0000225	Leishmania major_mito	6HIV_44|Chain	7ANE_45|Chain
+OG0000226	Leishmania major_mito	6HIV_42|Chain	7ANE_44|Chain
+OG0000227	Leishmania major_mito	6HIV_37|Chain	7ANE_43|Chain
+OG0000228	Leishmania major_mito	6HIV_3|Chain	7ANE_41|Chain
+OG0000229	Leishmania major_mito	6HIV_12|Chain	7ANE_40|Chain
+OG0000230	Leishmania major_mito	6HIV_40|Chain	7ANE_4|Chain
+OG0000231	Leishmania major_mito	6HIV_9|Chain	7ANE_39|Chain
+OG0000232	Leishmania major_mito	6HIV_17|Chain	7ANE_38|Chain
+OG0000233	Leishmania major_mito	6HIV_38|Chain	7ANE_37|Chain
+OG0000234	Leishmania major_mito	6HIV_45|Chain	7ANE_36|Chain
+OG0000235	Leishmania major_mito	6HIV_51|Chain	7ANE_34|Chain
+OG0000236	Leishmania major_mito	6HIV_53|Chain	7ANE_33|Chain
+OG0000237	Leishmania major_mito	6HIV_55|Chain	7ANE_32|Chain
+OG0000238	Leishmania major_mito	6HIV_11|Chain	7ANE_31|Chain
+OG0000239	Leishmania major_mito	6HIV_10|Chain	7ANE_30|Chain
+OG0000240	Leishmania major_mito	6HIV_24|Chain	7ANE_3|Chain
+OG0000241	Leishmania major_mito	6HIV_8|Chain	7ANE_29|Chain
+OG0000242	Leishmania major_mito	6HIV_7|Chain	7ANE_28|Chain
+OG0000243	Leishmania major_mito	6HIV_6|Chain	7ANE_27|Chain
+OG0000244	Leishmania major_mito	6HIV_5|Chain	7ANE_26|Chain
+OG0000245	Leishmania major_mito	6HIV_2|Chain	7ANE_25|Chain
+OG0000246	Leishmania major_mito	6HIV_16|Chain	7ANE_24|Chain
+OG0000247	Leishmania major_mito	6HIV_22|Chain	7ANE_23|Chain
+OG0000248	Leishmania major_mito	6HIV_15|Chain	7ANE_22|Chain
+OG0000249	Leishmania major_mito	6HIV_1|Chain	7ANE_21|Chain
+OG0000250	Leishmania major_mito	6HIV_50|Chain	7ANE_20|Chain
+OG0000251	Leishmania major_mito	6HIV_36|Chain	7ANE_2|Chain
+OG0000252	Leishmania major_mito	6HIV_19|Chain	7ANE_19|Chain
+OG0000253	Leishmania major_mito	6HIV_25|Chain	7ANE_17|Chain
+OG0000254	Leishmania major_mito	6HIV_27|Chain	7ANE_16|Chain
+OG0000255	Leishmania major_mito	6HIV_32|Chain	7ANE_15|Chain
+OG0000256	Leishmania major_mito	6HIV_33|Chain	7ANE_14|Chain
+OG0000257	Leishmania major_mito	6HIV_21|Chain	7ANE_13|Chain
+OG0000258	Leishmania major_mito	6HIV_136|Chain	7ANE_120|Chain
+OG0000259	Leishmania major_mito	6HIV_20|Chain	7ANE_12|Chain
+OG0000260	Leishmania major_mito	6HIV_126|Chain	7ANE_117|Chain
+OG0000261	Leishmania major_mito	6HIV_98|Chain	7ANE_116|Chain
+OG0000262	Leishmania major_mito	6HIV_127|Chain	7ANE_115|Chain
+OG0000263	Leishmania major_mito	6HIV_133|Chain	7ANE_114|Chain
+OG0000264	Leishmania major_mito	6HIV_104|Chain	7ANE_113|Chain
+OG0000265	Leishmania major_mito	6HIV_96|Chain	7ANE_111|Chain
+OG0000266	Leishmania major_mito	6HIV_121|Chain	7ANE_110|Chain
+OG0000267	Leishmania major_mito	6HIV_26|Chain	7ANE_11|Chain
+OG0000268	Leishmania major_mito	6HIV_97|Chain	7ANE_109|Chain
+OG0000269	Leishmania major_mito	6HIV_124|Chain	7ANE_108|Chain
+OG0000270	Leishmania major_mito	6HIV_135|Chain	7ANE_107|Chain
+OG0000271	Leishmania major_mito	6HIV_109|Chain	7ANE_104|Chain
+OG0000272	Leishmania major_mito	6HIV_134|Chain	7ANE_103|Chain
+OG0000273	Leishmania major_mito	6HIV_118|Chain	7ANE_102|Chain
+OG0000274	Leishmania major_mito	6HIV_111|Chain	7ANE_101|Chain
+OG0000275	Leishmania major_mito	6HIV_18|Chain	7ANE_10|Chain

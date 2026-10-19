@@ -1,0 +1,1 @@
+(Sulfolobus_acidocaldarius_cyto_8HKY_33|Chain:0.297129,((Pyrococcus_furiosus_cyto_4V6U_63|Chain:0.015051,Methanococcus_jannaschii_cyto_4V4N_51|Chain:0.035768):0.296696,Methanosarcina_acetivorans_cyto_9ZNI_33|Chain:0.266478):0.297129);

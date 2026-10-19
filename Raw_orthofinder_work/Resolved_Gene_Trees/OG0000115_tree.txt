@@ -1,0 +1,1 @@
+((Homo_sapiens_mito_7QI4_27|Chain:0.116812,Sus_scrofa_mito_5AJ4_28|Chain:0.0652178)n1:0.813439,(Polytomella_magna_mito_8A22_87|Chain:0.454675,Chlamydomonas_reinhardtii_mito_7PKQ_27|Chain:0.328313)n2:0.813439)n0;

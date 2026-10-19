@@ -1,0 +1,1 @@
+((Sus_scrofa_mito_5AJ4_80|Chain:0.10236,Homo_sapiens_mito_7QI4_78|Chain:0.107346):0.953173,(Trypanosoma_brucei_brucei_mito_6HIV_95|Chain:0.244609,Leishmania_major_mito_7ANE_105|Chain:0.30928):0.953173);

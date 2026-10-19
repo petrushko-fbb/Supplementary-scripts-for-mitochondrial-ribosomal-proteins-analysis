@@ -1,0 +1,1 @@
+(Bacillus_subtilis_3J9W_40|Chain:0.272782,((Mycoplasma_pneumoniae_cyto_8P7Y_39|Chain:0.680762,Arabidopsis_thaliana_mito_6XYW_87|Chain:0.891466):0.198307,Mycobacterium_smegmatis_cyto_8V9J_33|Chain:0.601387):0.272782);

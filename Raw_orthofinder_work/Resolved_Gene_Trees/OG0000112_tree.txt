@@ -1,0 +1,1 @@
+(Toxoplasma_gondii_mito_9I05_51|Chain:0.420966,((Leishmania_major_mito_7ANE_100|Chain:0.212632,Trypanosoma_brucei_brucei_mito_6HIV_119|Chain:0.12447)n2:0.455689,(Trypanosoma_brucei_brucei_mito_6HIV_128|Chain:0.364486,Leishmania_major_mito_7ANE_87|Chain:0.428719)n3:0.604356)n1:0.420966)n0;

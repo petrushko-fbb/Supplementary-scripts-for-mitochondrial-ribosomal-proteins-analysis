@@ -1,0 +1,51 @@
+2026-04-12 23:47:15 : Started OrthoFinder version 2.5.5
+Command Line: /home/petrushko/Programs/miniconda3/envs/orthof/bin/orthofinder -f all -t 12 -I 1.4 -o all_work
+
+WorkingDirectory_Base: all_work/Results_Apr12/WorkingDirectory/
+
+Species used: 
+0: Acinetobacter_baumannii_cyto.fasta
+1: Arabidopsis_thaliana_cyto.fasta
+2: Arabidopsis_thaliana_mito.fasta
+3: Bacillus_subtilis.fasta
+4: Caenorhabditis_elegans_cyto.fasta
+5: Chlamydomonas_reinhardtii_chloro.fasta
+6: Chlamydomonas_reinhardtii_mito.fasta
+7: Danio_rerio_cyto.fasta
+8: Drosophila_melanogaster_cyto.fasta
+9: Entamoeba_histolytica_cyto.fasta
+10: Enterococcus_faecalis_cyto.fasta
+11: Escherichia_coli_cyto.fasta
+12: Giardia_duodenalis_cyto.fasta
+13: Homo_sapiens_mito.fasta
+14: Leishmania major_mito.fasta
+15: Methanococcus_jannaschii_cyto.fasta
+16: Methanosarcina_acetivorans_cyto.fasta
+17: Mus_musculus_cyto.fasta
+18: Mycobacterium_smegmatis_cyto.fasta
+19: Mycobacterium_tuberculosis_cyto.fasta
+20: Mycoplasma_pneumoniae_cyto.fasta
+21: Neurospora_crassa_cyto.fasta
+22: Neurospora_crassa_mito.fasta
+23: Nicotiana_tabacum_cyto.fasta
+24: Oryctolagus_cuniculus_cyto.fasta
+25: Plasmodium_falciparum_cyto.fasta
+26: Polytomella_magna_mito.fasta
+27: Pseudomonas_aeruginosa_cyto.fasta
+28: Pyrococcus_furiosus_cyto.fasta
+29: Saccharomyces_cerevisiae_cyto.fasta
+30: Saccharomyces_cerevisiae_mito.fasta
+31: Spinacia_oleracea_chloro.fasta
+32: Spraguea_lophii_cyto.fasta
+33: Staphylococcus_aureus_cyto.fasta
+34: Sulfolobus_acidocaldarius_cyto.fasta
+35: Sus_scrofa_mito.fasta
+36: Tetrahymena_thermophila_mito.fasta
+37: Thermus_thermophilus_cyto.fasta
+38: Toxoplasma_gondii_mito.fasta
+39: Trypanosoma_brucei.fasta
+40: Trypanosoma_brucei_brucei_mito.fasta
+
+FN_Orthogroups: all_work/Results_Apr12/WorkingDirectory/clusters_OrthoFinder_I1.4.txt_id_pairs.txt
+WorkingDirectory_Trees: all_work/Results_Apr12/WorkingDirectory/
+2026-04-12 23:48:34 : OrthoFinder run completed

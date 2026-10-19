@@ -1,0 +1,100 @@
+	Acinetobacter_baumannii_cyto	Arabidopsis_thaliana_cyto	Arabidopsis_thaliana_mito	Bacillus_subtilis	Caenorhabditis_elegans_cyto	Chlamydomonas_reinhardtii_chloro	Chlamydomonas_reinhardtii_mito	Danio_rerio_cyto	Drosophila_melanogaster_cyto	Entamoeba_histolytica_cyto	Enterococcus_faecalis_cyto	Escherichia_coli_cyto	Giardia_duodenalis_cyto	Homo_sapiens_mito	Leishmania major_mito	Methanococcus_jannaschii_cyto	Methanosarcina_acetivorans_cyto	Mus_musculus_cyto	Mycobacterium_smegmatis_cyto	Mycobacterium_tuberculosis_cyto	Mycoplasma_pneumoniae_cyto	Neurospora_crassa_cyto	Neurospora_crassa_mito	Nicotiana_tabacum_cyto	Oryctolagus_cuniculus_cyto	Plasmodium_falciparum_cyto	Polytomella_magna_mito	Pseudomonas_aeruginosa_cyto	Pyrococcus_furiosus_cyto	Saccharomyces_cerevisiae_cyto	Saccharomyces_cerevisiae_mito	Spinacia_oleracea_chloro	Spraguea_lophii_cyto	Staphylococcus_aureus_cyto	Sulfolobus_acidocaldarius_cyto	Sus_scrofa_mito	Tetrahymena_thermophila_mito	Thermus_thermophilus_cyto	Toxoplasma_gondii_mito	Trypanosoma_brucei	Trypanosoma_brucei_brucei_mito
+Number of genes	49	74	74	50	73	56	72	73	80	71	47	49	72	81	118	60	61	78	53	49	52	77	77	75	78	74	93	50	64	76	73	55	72	48	62	81	94	52	119	77	125
+Number of genes in orthogroups	48	72	57	48	72	49	69	73	78	71	47	49	68	79	118	60	56	78	52	48	48	75	63	75	78	72	71	50	62	75	61	47	67	47	57	78	37	49	37	71	116
+Number of unassigned genes	1	2	17	2	1	7	3	0	2	0	0	0	4	2	0	0	5	0	1	1	4	2	14	0	0	2	22	0	2	1	12	8	5	1	5	3	57	3	82	6	9
+Percentage of genes in orthogroups	98.0	97.3	77.0	96.0	98.6	87.5	95.8	100.0	97.5	100.0	100.0	100.0	94.4	97.5	100.0	100.0	91.8	100.0	98.1	98.0	92.3	97.4	81.8	100.0	100.0	97.3	76.3	100.0	96.9	98.7	83.6	85.5	93.1	97.9	91.9	96.3	39.4	94.2	31.1	92.2	92.8
+Percentage of unassigned genes	2.0	2.7	23.0	4.0	1.4	12.5	4.2	0.0	2.5	0.0	0.0	0.0	5.6	2.5	0.0	0.0	8.2	0.0	1.9	2.0	7.7	2.6	18.2	0.0	0.0	2.7	23.7	0.0	3.1	1.3	16.4	14.5	6.9	2.1	8.1	3.7	60.6	5.8	68.9	7.8	7.2
+Number of orthogroups containing species	48	71	57	48	70	48	69	71	76	70	47	49	68	77	117	60	55	76	52	48	48	73	63	73	76	71	70	50	62	72	61	47	66	47	57	76	37	49	34	70	115
+Percentage of orthogroups containing species	16.4	24.3	19.5	16.4	24.0	16.4	23.6	24.3	26.0	24.0	16.1	16.8	23.3	26.4	40.1	20.5	18.8	26.0	17.8	16.4	16.4	25.0	21.6	25.0	26.0	24.3	24.0	17.1	21.2	24.7	20.9	16.1	22.6	16.1	19.5	26.0	12.7	16.8	11.6	24.0	39.4
+Number of species-specific orthogroups	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+Number of genes in species-specific orthogroups	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0
+Percentage of genes in species-specific orthogroups	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.4	0.0	0.0
+
+
+Number of genes per-species in orthogroup	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups
+'0	244	221	235	244	222	244	223	221	216	222	245	243	224	215	175	232	237	216	240	244	244	219	229	219	216	221	222	242	230	220	231	245	226	245	235	216	255	243	258	222	177
+'1	48	70	57	48	68	47	69	69	74	69	47	49	68	76	116	60	54	74	52	48	48	71	63	71	74	70	69	50	62	69	61	47	65	47	57	75	37	49	31	69	114
+'2	0	1	0	0	2	1	0	2	2	1	0	0	0	0	1	0	1	2	0	0	0	2	0	2	2	1	1	0	0	3	0	0	1	0	0	0	0	0	3	1	1
+'3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+'4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11-15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16-20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21-50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+51-100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+101-150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+151-200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+201-500	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+501-1000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'1001+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups
+'0	83.6	75.7	80.5	83.6	76.0	83.6	76.4	75.7	74.0	76.0	83.9	83.2	76.7	73.6	59.9	79.5	81.2	74.0	82.2	83.6	83.6	75.0	78.4	75.0	74.0	75.7	76.0	82.9	78.8	75.3	79.1	83.9	77.4	83.9	80.5	74.0	87.3	83.2	88.4	76.0	60.6
+'1	16.4	24.0	19.5	16.4	23.3	16.1	23.6	23.6	25.3	23.6	16.1	16.8	23.3	26.0	39.7	20.5	18.5	25.3	17.8	16.4	16.4	24.3	21.6	24.3	25.3	24.0	23.6	17.1	21.2	23.6	20.9	16.1	22.3	16.1	19.5	25.7	12.7	16.8	10.6	23.6	39.0
+'2	0.0	0.3	0.0	0.0	0.7	0.3	0.0	0.7	0.7	0.3	0.0	0.0	0.0	0.0	0.3	0.0	0.3	0.7	0.0	0.0	0.0	0.7	0.0	0.7	0.7	0.3	0.3	0.0	0.0	1.0	0.0	0.0	0.3	0.0	0.0	0.0	0.0	0.0	1.0	0.3	0.3
+'3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.3	0.0	0.0	0.0	0.0	0.0
+'4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+11-15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+16-20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+21-50	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+51-100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+101-150	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+151-200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+201-500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Number of genes per-species in orthogroup	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes
+'0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'1	48	70	57	48	68	47	69	69	74	69	47	49	68	76	116	60	54	74	52	48	48	71	63	71	74	70	69	50	62	69	61	47	65	47	57	75	37	49	31	69	114
+'2	0	2	0	0	4	2	0	4	4	2	0	0	0	0	2	0	2	4	0	0	0	4	0	4	4	2	2	0	0	6	0	0	2	0	0	0	0	0	6	2	2
+'3	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+'4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11-15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16-20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21-50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+51-100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+101-150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+151-200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+201-500	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+501-1000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'1001+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes
+'0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'1	98.0	94.6	77.0	96.0	93.2	83.9	95.8	94.5	92.5	97.2	100.0	100.0	94.4	93.8	98.3	100.0	88.5	94.9	98.1	98.0	92.3	92.2	81.8	94.7	94.9	94.6	74.2	100.0	96.9	90.8	83.6	85.5	90.3	97.9	91.9	92.6	39.4	94.2	26.1	89.6	91.2
+'2	0.0	2.7	0.0	0.0	5.5	3.6	0.0	5.5	5.0	2.8	0.0	0.0	0.0	0.0	1.7	0.0	3.3	5.1	0.0	0.0	0.0	5.2	0.0	5.3	5.1	2.7	2.2	0.0	0.0	7.9	0.0	0.0	2.8	0.0	0.0	0.0	0.0	0.0	5.0	2.6	1.6
+'3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.7	0.0	0.0	0.0	0.0	0.0
+'4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+11-15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+16-20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+21-50	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+51-100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+101-150	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+151-200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+201-500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

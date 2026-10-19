@@ -1,0 +1,1 @@
+((Saccharomyces_cerevisiae_mito_5MRE_69|Chain:1.02862,Neurospora_crassa_mito_6YWE_76|Chains:0.950703):0.701415,(Leishmania_major_mito_7ANE_42|Chain:0.358539,Trypanosoma_brucei_brucei_mito_6HIV_54|Chain:0.282974):0.701415);

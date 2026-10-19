@@ -1,0 +1,1 @@
+((Methanococcus_jannaschii_cyto_4V4N_58|Chain:0.0228187,Pyrococcus_furiosus_cyto_4V6U_43|Chain:0.103277):0.482477,(Mus_musculus_cyto_7LS2_80|Chain:1.77703e-06,((Drosophila_melanogaster_cyto_4V6W_39|Chain:0.158463,Saccharomyces_cerevisiae_cyto_5DC3_82|Chain:0.465885):0.032539,Oryctolagus_cuniculus_cyto_8VVT_49|Chain:0.0178401):0.0684454):0.482477);
